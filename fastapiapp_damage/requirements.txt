@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pydantic
+Pillow==10.0.0
+torch==2.0.0
+torchvision==0.15.0
+numpy==1.23.5
